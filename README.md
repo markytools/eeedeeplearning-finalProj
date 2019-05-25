@@ -7,7 +7,7 @@ PowerPointPresentation: https://docs.google.com/presentation/d/1Sd7_C0vOtJg7vk-N
 Datasets: https://drive.google.com/file/d/1UOETCQiVUEL7NiZTlkJPl5zDAgE-XUxp/view?usp=sharing</br>
 </br>
 </br>
-run test code: python eval_all.py
+run test code: python eval_mean_scores.py
 </br>
 </br>
 LABELED_IMAGES folder should contain the EgoHands dataset </br>
